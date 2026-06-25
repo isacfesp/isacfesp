@@ -31,13 +31,6 @@
 </p>
 
 ---
-
-## 📊 Mi Actividad Global
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/isacfesp?base=header,activity,community&base.indepth=true&config.timezone=America/Mexico_City" alt="Métricas Globales" width="100%"/>
-</p>
-
 <p align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isacfesp&theme=radical" alt="Racha de GitHub" height="180px"/>
