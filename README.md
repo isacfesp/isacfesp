@@ -32,12 +32,10 @@
 
 ---
 
+## 📊 Mi Actividad Global
+
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=isacfesp&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
-  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacfesp&layout=compact&theme=radical&langs_count=5&hide_progress=false" alt="Lenguajes más usados" height="180px"/>
+  <img src="https://metrics.lecoq.io/isacfesp?base=header,activity,community&base.indepth=true&config.timezone=America/Mexico_City" alt="Métricas Globales" width="100%"/>
 </p>
 
 <p align="center">
