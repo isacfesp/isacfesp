@@ -9,9 +9,9 @@
 
 ## 👤 Sobre Mí
 
-- 🔭 Actualmente estoy trabajando en **[Tu Proyecto Actual]**
-- 🌱 Estoy profundizando mis conocimientos en **[Tecnología que estás aprendiendo]**
-- ⚡ Dato curioso: **[Algo divertido o interesante sobre ti]**
+- 🔭 Actualmente estoy trabajando en **Un gestor de finanzas**
+- 🌱 Estoy profundizando mis conocimientos en **Rust, es un lenguaje hermosamente dificil.**
+- ⚡ Dato curioso: **Soy considerado un arma letal en 20 paises**
 
 ---
 
@@ -35,13 +35,13 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isacfesp&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Lenguajes más usados" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacfesp&layout=compact&theme=radical" alt="Lenguajes más usados" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical" alt="Racha de GitHub" height="18
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isacfesp&theme=radical" alt="Racha de GitHub" height="18
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
