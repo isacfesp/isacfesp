@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isacfesp&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
   
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacfesp&layout=compact&theme=radical&count_private=true" alt="Lenguajes más usados" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacfesp&layout=compact&theme=radical&langs_count=5&hide_progress=false" alt="Lenguajes más usados" height="180px"/>
 </p>
 
 <p align="center">
